@@ -1,6 +1,9 @@
 # blockchain_landing_web_page
 
-A new Flutter project.
+This flutter web UI tamplate for blockchain landing page.
+
+[Demo video](https://youtu.be/75h4RZGzFb4)
+
 
 ## Getting Started
 
